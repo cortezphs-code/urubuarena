@@ -1,0 +1,13 @@
+{
+  "name": "urubu-ringue-live",
+  "version": "1.0.0",
+  "description": "Jogo Interativo de TikTok Live - Ringue de Mascotes: Urubu vs Porco",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "tiktok-live-connector": "latest",
+    "ws": "latest"
+  }
+}

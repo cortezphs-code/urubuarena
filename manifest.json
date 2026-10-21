@@ -1,0 +1,9 @@
+{
+  "name": "Ringue de Mascotes Live: Urubu vs Porco",
+  "short_name": "Urubu Ringue",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060b14",
+  "theme_color": "#111827",
+  "orientation": "portrait"
+}
